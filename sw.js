@@ -1,0 +1,2 @@
+"games.html",
+"game.js",
